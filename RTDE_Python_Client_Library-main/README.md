@@ -1,3 +1,4 @@
+# Code from Universal Robots just added code to conrtol the Robotiq Gripper
 # RTDE client library - Python
 Library implements API for Universal Robots RTDE realtime interface.
 
